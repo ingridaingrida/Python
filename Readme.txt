@@ -1,6 +1,10 @@
 --Roman Number Converter
 Roman Numeral Converter is a Python code for converting roman numbers to arabic and vice versa.
 
+--Requirements
+Python installed
+Working Python development platform/environment
+
 --Installation
 Dowload code file Number_converter.py
 
